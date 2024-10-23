@@ -1,0 +1,27 @@
+Feature,Correlation Coefficient
+Target,1.0
+Target_binary,0.9124851093929734
+Performance_ratio,0.6883876815431358
+Progress_rate_approvals,0.6862776248590168
+Curricular units 2nd sem (approved),0.6230248140170094
+Curricular units 2nd sem (grade),0.5668272799105682
+Curricular units 1st sem (approved),0.5409200720722744
+Study_Time_per_Credit,0.4932971193368698
+Curricular units 1st sem (grade),0.4852073909050884
+Tuition fees up to date,0.4098267546786892
+Scholarship holder,0.2975952913982123
+dropout_risk,0.2752308294440161
+Age at enrollment,0.2724092947966491
+Debtor,0.2409989028231072
+Gender,0.22926957430635284
+Application mode,0.2217465810036506
+Age at enrollment * Admission grade,0.1874717128355464
+Curricular units 1st sem (evaluations),0.18743233690581002
+Curricular units 2nd sem (enrolled),0.17584682400648596
+Total_enrolled_units,0.16772059206324647
+Curricular units 1st sem (enrolled),0.15597396850095085
+Admission grade,0.12854898404477041
+Displaced,0.113985570020066
+Previous qualification,0.10714372871608309
+Study_Engagement,0.10700786990701126
+Previous qualification (grade),0.10376369716387776
